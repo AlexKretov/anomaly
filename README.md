@@ -1,12 +1,4 @@
-# README.md и requirements.txt для проекта
 
-Ниже представлены оба файла.
-
----
-
-## `README.md`
-
-````markdown
 # 🔍 Credit Card Fraud Detection — Anomaly Detection with Unsupervised ML
 
 > **Поиск аномалий в банковских транзакциях с помощью методов обучения без учителя**
